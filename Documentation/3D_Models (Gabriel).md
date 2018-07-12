@@ -1,5 +1,5 @@
 # 3D Models
-@Maricio
+[@MackyNous](https://github.com/MackyNous) (Maricio Jongma)
 
 As we were reverse engineering Gaia Sky we found out that there are several 3D models of spacechips already in Gaia. After doing some research this had been confirmed to us by the oficial website itself that shows the following image: 
 
