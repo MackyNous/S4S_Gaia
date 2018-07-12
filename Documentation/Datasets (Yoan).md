@@ -1,5 +1,5 @@
 # Datasets
-@MackyNous (Maricio Jongma)
+[@MackyNous](https://github.com/MackyNous) (Maricio Jongma)
 
 One of the beautiful things about Gaia Sky is the option to add available datasets. We were very excited about all the possible datsets. 
 But we encountered one big problem: "We are not able too add all the datsets we want to add". 
