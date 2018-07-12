@@ -1,0 +1,9 @@
+{
+	"name" : "DR2 - large",
+	"description" : "Gaia DR2 (50%/12.5% bright/faint error). 97M stars.",
+	"data" : [
+	{
+		"loader": "gaia.cu9.ari.gaiaorbit.data.group.OctreeGroupLoader",
+		"files": [ "data/octree/dr2/65-mag-090000-0.5-0.125/particles/", "data/octree/dr2/65-mag-090000-0.5-0.125/metadata.bin" ]
+}
+]}
