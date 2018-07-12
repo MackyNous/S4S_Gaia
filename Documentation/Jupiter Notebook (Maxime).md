@@ -1,5 +1,6 @@
 
 # Jupyter Notebook
+[@Faivrem](https://github.com/Faivrem) (Maxime Faivre)
 
 A Jupyter Notebook allows us to run Python code while writing some text to add documentation.
 
