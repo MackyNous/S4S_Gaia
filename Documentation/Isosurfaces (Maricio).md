@@ -1,4 +1,5 @@
 # Isosurfaces
+[@RemcoRitfeld](https://github.com/RemcoRitfeld) (Remco Ritfeld)
 
 Isosurfaces are three dimensional computer animations used to visualise (mostly) fluids and gasses. 
 
