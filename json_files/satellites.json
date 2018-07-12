@@ -116,8 +116,8 @@
 	},
 	
 	{
-		"name" : "Deathstar",
-		"wikiname" : "Deathstar",
+		"name" : "Enterprise",
+		"wikiname" : "Enterprise",
 		"color" : [0.3, 0.5, 0.9, 1.0],
 		// in Km
 		"size" : 0.9,
