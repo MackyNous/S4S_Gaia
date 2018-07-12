@@ -1,5 +1,7 @@
 # S4S_Gaia
 
+Maricio | Remco | Maxime | Kevin | Gabriel | Mohand | Yoan | Hicham
+
 Interesting Links and Resources we used during the project
 
 https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/downloads/#dr2catalogs
