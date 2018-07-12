@@ -1,17 +1,25 @@
-Interesting Links and Resources we used during the project
+# Interesting Links and Resources we used during the project
 
-https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/downloads/#dr2catalogs
+[@MackyNous](https://github.com/MackyNous) (Maricio Jongma)
 
-https://github.com/ehalley/parallax-tutorial-2018
+[@RemcoRitfeld](https://github.com/RemcoRitfeld) (Remco Ritfeld)
 
-http://galaxymap.org/drupal/
 
-https://www.youtube.com/watch?v=EbdQYrXAWsY
+The most interesting and usefull links are summed up down below, we didn't at everthing because most of the sites we've visited were subsites of galaxymap or zah.uni-heidelberg
 
-https://en.wikipedia.org/wiki/Globular_cluster
+- https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/downloads/#dr2catalogs
 
-https://en.wikipedia.org/wiki/Galactic_Center
+- https://github.com/ehalley/parallax-tutorial-2018
 
-https://github.com/kevinjardine/gaiadr2
+- http://galaxymap.org/drupal/
 
-http://galaxy40k.com/
+- https://www.youtube.com/watch?v=EbdQYrXAWsY
+
+- https://en.wikipedia.org/wiki/Globular_cluster
+
+- https://en.wikipedia.org/wiki/Galactic_Center
+
+- https://github.com/kevinjardine/gaiadr2
+
+- http://galaxy40k.com/
+
