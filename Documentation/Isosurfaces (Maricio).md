@@ -5,4 +5,4 @@ In the case of Gaia Sky these are ionizing meshes, which contain mostly hydrogen
 Where there are alot of 'hot and/or massive stars of spectral type O and/or B', a isosurface will apear. The higher the density, the more red the area will become, the lower the density, the more blue the area will become.
 
 
-![Isosurface from Gaia site](http://gaia.ari.uni-heidelberg.de/gaiasky/files/screenshots/dr2/20180420_screenshot_00000.png)
+![Isosurface from Gaia site](https://raw.githubusercontent.com/MackyNous/S4S_Gaia/master/Documentation/img/isosurface.png)
