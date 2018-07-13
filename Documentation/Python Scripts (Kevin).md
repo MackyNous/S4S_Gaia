@@ -1,5 +1,5 @@
 # Python Scripts
-[@MackyNous](https://github.com/MackyNous) (Maricio Jongma) / [@lebnet](https://github.com/lebnet)
+[@MackyNous](https://github.com/MackyNous) (Maricio Jongma) / [@lebnet](https://github.com/lebnet) (Kevin)
 
 In Gaia Sky we can use Python to move through space, and coordinate ourselves. This is done using Jython.
 
